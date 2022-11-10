@@ -24,4 +24,17 @@ Ao final me senti realizado vendo a minha evolução e o resultado dos meus esfo
 
 # `Demonstração`
 
+### Login e Cadastro
+https://user-images.githubusercontent.com/114877391/201227726-7acdff64-d839-46e6-ae75-2944ab6054d9.mp4
+
+### Contatos e Adição de Novo Contato
+https://user-images.githubusercontent.com/114877391/201228632-4ff2e5ed-65fc-4026-bcd1-909be0b0605a.mp4
+
+### Troca de Mensagens
+https://user-images.githubusercontent.com/114877391/201227830-501d7519-09b9-4e9d-adb9-26973a51e63b.mp4
+
+### Edição de Perfil
+
+
+https://user-images.githubusercontent.com/114877391/201227872-f5f39fdc-1f13-4828-9f14-99aacd4d70b7.mp4
 
